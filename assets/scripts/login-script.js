@@ -3,16 +3,6 @@
 * Membuat variabel loginFormElement untuk tampilan form.
 * @constant {HTMLElement}
 */
-
-/** @constant
-    @type {string}
-    @default
-*/
-const RED = 'FF0000';
-
-/** @constant {number} */
-var ONE = 1;
-
 const loginFormElement = document.querySelector('#loginForm');
  
  
